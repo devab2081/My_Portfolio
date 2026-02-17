@@ -1,0 +1,6 @@
+/* Add this to your CSS or I will append it */
+.profile-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
