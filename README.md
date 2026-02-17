@@ -2,18 +2,18 @@
 
 This is the personal portfolio website of Devadharsan, a Cybersecurity Engineer and Ethical Hacker.
 
-## 🚀 Live Demo
+##  Live Demo
 
 Check out the live version of the portfolio here: **[Live Site](http://devadharsan-cyber.surge.sh)**
 
-## 🛠️ Built With
+##  Built With
 
 - HTML5
 - CSS3
 - JavaScript
 - Surge.sh (Hosting)
 
-## 📌 Features
+##  Features
 
 - Professional styling with a neon/cybersecurity theme.
 - Responsive design for all devices.
